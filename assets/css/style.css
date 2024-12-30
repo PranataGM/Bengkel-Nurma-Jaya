@@ -1,0 +1,6 @@
+.hero {
+    background-image: url(/assets/img/image2.jpg);
+    text-align: center;
+    justify-content: center;
+    background-size: cover;
+}
